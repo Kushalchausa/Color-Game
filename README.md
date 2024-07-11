@@ -1,1 +1,1 @@
-# Simon-Color-Game
+# Color-Game
